@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello world!
+- 🔭 Aktuell arbeite ich an:
+  - ERP-System in Python mit SQLite und tkinter
+  - Java-Konsolenanwendung "Kaffeemaschine"
+  - Webbasiertes Auswerteprogramm für Laufveranstaltungen mit Bootstrap, PHP und mySQL-Datenbank
+- 🌱 Abschluss des IHK-Zertifikatslehrgangs Software Developer seit 30.7.2025
 
 <!--
 **PhilipKottmann/PhilipKottmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
