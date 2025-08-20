@@ -1,5 +1,5 @@
 ## Hello world!
-Das ist mein privates Github-Profil, auf dem ich **meine aktuellen Software-Projekte** zur Verfügung stelle. Es handelt sich hierbei (noch) um keine produktiven Programme, sie dienen lediglich zur **Übung** und Darstellung meiner **Fähigkeiten** und meines **Fortschritts** in der Programmierung. Hier liegt der Fokus auf der Erstellung des Quellcodes, die Dokumentation ist auch Teil der Repositories, allerdings mit nachgeagerter Priorität.
+Das ist mein privates Github-Profil, auf dem ich **meine aktuellen Software-Projekte** zur Verfügung stelle. Es handelt sich hierbei (noch) um keine produktiven Programme, sie dienen lediglich zur **Übung** und Darstellung meiner **Fähigkeiten** und meines **Fortschritts** in der Programmierung. Hier liegt der Fokus auf der Erstellung des Quellcodes, die Dokumentation ist auch Teil der Repositories, allerdings mit nachgelagerter Priorität.
 
 Da ich alles als Einzelperson entwickle, folge ich keinem agilen Vorgehensmodell, sondern grundsätzlich dem Vorgehen im Wasserfallmodell. Ich analysiere den Ist-Zustand und erstelle einen Entwurf der Funktionalitäten (und ggf. Datenbankstruktur) bevor ich die Implementierung starte. Tests erfolgen aktuell meist als Schreibtischtests und sind keine automatisierten Unit-Tests.
 
