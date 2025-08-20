@@ -9,7 +9,7 @@ Da ich alles als Einzelperson entwickle, folge ich keinem agilen Vorgehensmodell
   - Webbasiertes Auswerteprogramm für Laufveranstaltungen mit Bootstrap, PHP und mySQL-Datenbank - aktuell keine Weiterentwicklung geplant, lediglich Bugfixes und "Schönheitsoptimierungen".
 - 🌱 Abschluss des IHK-Zertifikatslehrgangs Software Developer seit 30.7.2025
 
-Die Repositories sind bislang nur als Dummies angelegt, die aktuellen Ständer der Programme werde ich in den nächsten Tagen ablegen
+Mittlerweile sind die initialen Stände des ERP-Systems (Python) sowie der Kaffeemaschine (Java) abgelegt.
 
 <!--
 **PhilipKottmann/PhilipKottmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
